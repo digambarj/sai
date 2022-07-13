@@ -2,6 +2,6 @@
 void main()
 {
 char a[]="sairam";
-printf("%s\n",a);
+printf("%s",a);
 
 }
